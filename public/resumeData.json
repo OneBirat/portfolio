@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Birat Karki",
+    "occupation": "Developer at OneDay",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Birat Karki! I've been coding for over 2 years now..",
+    "contactmessage": "Get in touch with me",
+    "email": "onebirat@gmail.com",
+    "phone": "+977 12345678",
+    "address": {
+      "street": "New Baneshwor",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "country": "Kingdom of Nepal"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [ 
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/onebirat",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/onebirat",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/onebirat/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/onebirat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kantipur Engineering College",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "August 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "EforEV",
+        "title": "Founder and CEO",
+        "years": "December 2019 - Present",
+        "description": "Get the update of all latest news of Electic Vehicle."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "77%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      },
+      {
+          "name": "Solidty",
+          "level": "40%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Birat was very professional and delivered the work quickly! Thank you and look forward to working together again!",
+        "user": "Nobody"
+      },
+      {
+        "text": "Did a great job and did what I needed within 30 minutes after making the milestone, thanks so much birat!",
+        "user": "Nobody"
+      }
+    ]
+  }
+}
